@@ -1,3 +1,5 @@
+# GROMACS_INPUT_WCA_IL_FILES
+
 Input file to simulate bulk of electrolytes composed by Aluminate-based WCA-IL in GROMACS.
 
 More information in:
