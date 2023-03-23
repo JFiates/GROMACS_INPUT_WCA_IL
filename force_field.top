@@ -1,0 +1,28 @@
+#define _FF_OPLS
+#define _FF_OPLSAA
+
+[ defaults ]
+;nbfunc  comb-rule   gen-pairs   fudgeLJ  fudgeQQ
+1         3          yes        0.5      0.5
+
+;;;LOAD atomtypes
+
+#include "data/AlOhfip4_atomtypes.itp"
+#include "data/N1444_atomtype.itp"
+
+;;;LOAD bonded parameters
+
+#include "data/Al(Ohfip)4.itp"
+#include "data/N1444.itp"
+
+[ system ]
+;name
+Neat AlO N14
+
+[ molecules]
+AlO  500
+N14  500
+
+
+
+

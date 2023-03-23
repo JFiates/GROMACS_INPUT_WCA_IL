@@ -1,0 +1,5 @@
+﻿HEADER    Na                                     20-09-25    1Na+
+REMARK   1 corina 4.00 0066  26.04.2017                               
+HETATM    1 NA1  NA     1       0.002  -0.004   0.002  1.00 20.00
+CONECT    1
+END

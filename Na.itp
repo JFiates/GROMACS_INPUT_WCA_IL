@@ -1,0 +1,6 @@
+[ moleculetype ]
+; Name               nrexcl
+Na                   3
+[ atoms ]
+;   nr       type  resnr residue  atom   cgnr     charge       mass  
+     1   opls_100      1    Na   NA1      1       0.800    22.9897 
